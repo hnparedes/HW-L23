@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Define the parameters for the sine wave
-frequency = 1  # Frequency in Hz
+frequency = 5  # Frequency in Hz
 amplitude = 1  # Amplitude of the sine wave
 time = np.linspace(0, 2 * np.pi, 500)  # Time values from 0 to 2π
 
